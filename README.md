@@ -1,8 +1,5 @@
 # DaireninAlani
 ```
-[patika.dev]([
-](https://app.patika.dev/iremr)
-```
 import java.util.Scanner;
 
 
